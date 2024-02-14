@@ -6,29 +6,29 @@
 
 ### 🔧 Instalação
 
-Esse projeto necessita da utilização do python 3. Será necessário instalar um ambiente virtual, caso deseje não criar o ambiente virtual todas as libs serão instaladas na máquina.
+- Esse projeto necessita da utilização do python 3. Será necessário instalar um ambiente virtual, caso deseje não criar o ambiente virtual todas as libs serão instaladas na máquina.
 
-Com o python instalado utilizao comando abaixo para criar o ambiente virtual:
+- Com o python instalado utilizao comando abaixo para criar o ambiente virtual:
 ```
 python3 -m venv .venv
 ```
 
-Com o ambiente instalado, utilize o comando abaixo para instalar todas as libs utilizadas no projeto
+- Com o ambiente instalado, utilize o comando abaixo para instalar todas as libs utilizadas no projeto
 ```
 pip install requirements.txt
 ```
 
-Para rodar o projeto utilze o comando abaixo:
+- Para rodar o projeto utilze o comando abaixo:
 ```
 python3 run.py
 ```
 
-Com o servidor ligado, utilize a rota:
+- Com o servidor ligado, utilize a rota:
 ```
 localhost:3000/create_tag
 ```
 
-Ferramentas utilizadas
+- Ferramentas utilizadas
 
 * [Python](https://python.org/) 
 * [Pytest](https://www.pytest.org/)
